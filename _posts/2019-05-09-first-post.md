@@ -10,7 +10,7 @@ This has been my life goal since my 1st year in College. I have seen many friend
 
 I didn't know how to write a line of code till I came to college. Here programming was all the craze. I quickly jumped into the bandwagon and python caught my interest. It was easy to learn but difficult to master. Even now after 2 years I still learn new things every now and then.
 
-During this time I also came to know about open source and GSoC. I didn't know how to start contributing. It looked overwhelming to me. I decided I would go to the GSoC homepage and have a look at the organizations from last year. I went to the github pages of the ones which looked interesting to me and thus began my journey in open source. 
+During this time I also came to know about open source and GSoC. I didn't know how to start contributing at first. The whole process looked overwhelming to me. I decided I would go to the GSoC homepage and have a look at the organizations from last year. I went to the github pages of the ones which looked interesting to me and thus began my journey in open source. 
 
 Out of all the open source organizations I searched, coala was the most newcomer friendly to come across. It rekindled my passion in open source after I got demotivated trying to understand how some other organizations worked. The mentors were helpful and they had an easy to understand system on place regarding contributing and labels for issues that were easy to solve for newcomers at first.
 

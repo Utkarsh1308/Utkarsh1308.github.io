@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Bonding Period!
-image: /img/hello_world.jpeg
+bigimg: /img/path.jpg
 ---
 
 Where do I even start!? So the excitement of getting selected wasn't enough as it is! First of all I got my selection news in the middle 

@@ -8,7 +8,7 @@ image: /img/hello_world.jpeg
 
 This has been my life goal since my 1st year in College. I have seen many friends apply for this internship and I have seen both failures and successes. So I decided I would have a crack at this prestigious internship too!
 
-I didn't know a line of code till I came to college, where programming was all the craze. I quickly jumped into the bandwagon and python caught my interest. It was easy to learn but difficult to master. Even now after 2 years I still learn new things every now and then.
+I didn't know how to write a line of code till I came to college. Here programming was all the craze. I quickly jumped into the bandwagon and python caught my interest. It was easy to learn but difficult to master. Even now after 2 years I still learn new things every now and then.
 
 During this time I also came to know about open source and GSoC. I didn't know how to start contributing. It looked overwhelming to me. I decided I would go to the GSoC homepage and have a look at the organizations from last year. I went to the github pages of the ones which looked interesting to me and thus began my journey in open source. 
 

@@ -16,11 +16,7 @@ Out of all the open source organizations I searched, coala was the most newcomer
 
 I was very happy when my first patch got accepted! Over time I fixed more issues of higher difficulties and eventually I decided I would want to work with coala for GSoC. 
 
-It took me a long time trying to find the right project for me and making a proposal. I submitted it with my fingers crossed knowing fully well my slim chances of getting selected.
-
-Following this my final exams started and I had to shift my focus to them. The date for the results was coming closer each day. 
-
-On the night the results were announced I looked through the accepted proposals. I scrolled down slowly and found my name in the list.
+It took me a long time trying to find the right project for me and making a proposal. I submitted it with my fingers crossed knowing fully well my slim chances of getting selected. Following this my final exams started and I had to shift my focus to them. The date for the results was coming closer each day. On the night the results were announced I looked through the accepted proposals. I scrolled down slowly and found my name in the list.
 
 I couldn't believe my eyes when I saw that I got selected! This was my life's biggest achievement! 
 

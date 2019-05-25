@@ -14,7 +14,7 @@ During this time I also came to know about open source and GSoC. I didn't know h
 
 Out of all the open source organizations I searched, coala was the most newcomer friendly to come across. It rekindled my passion in open source after I got demotivated having difficulties in understanding how the other organizations worked. The mentors were helpful and they had an easy to understand system in place regarding contributing with labels for difficulty of issues so that newcomers could fix issues that were suited to their level and skill. It was really helpful as even solving the easiest issues and pushing them to their github repo required a good understanding of the working of git and github. So we were learning new things in the process.
 
-I was very happy when my first patch got accepted! Over time I fixed more issues of higher difficulties and eventually I decided I would want to work with coala for GSoC. 
+I was very happy when my first patch got accepted! Over time I fixed more issues of higher difficulties and eventually I decided I would be applying in coala for GSoC19. 
 
 It took me a long time trying to find the right project for me and making a proposal. I submitted it with my fingers crossed knowing fully well my slim chances of getting selected. Following this my final exams started and I had to shift my focus to them. The date for the results was coming closer each day. On the night the results were announced I looked through the accepted proposals. I scrolled down slowly and found my name in the list.
 

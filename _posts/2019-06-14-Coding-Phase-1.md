@@ -8,6 +8,9 @@ bigimg: /img/path.jpg
 Before I plan to **Improve Diff Handling** I had to first find the libraries and fix them so that I could use them in coala.
 I already had a fair idea what I wanted my diffs to look like. Next step was to find the right libraries to get the job done.
 The following week began my hunt to find the right library to use to generate **Binary and XML Diffs**. 
+
+I had to weigh a variety of factors alongside each other and see the code and diff outputI would be most comfortable with to come to a decision.
+
 I narrowed the libraries down and ultimately decided upon the winners. They were easy to use and had all the right functionality 
 I needed from them. 
 
@@ -26,7 +29,8 @@ that the miantainer was active ;-]
 The guys who made this did not fool around. Some serious work was put into this library. The diff algorithm was based on a 
 [published paper](http://ilpubs.stanford.edu:8090/115/1/1995-46.pdf) which I haven't read fully till now. There was nothing
 to improve here. They had everything I was looking for. But understanding the code and how everything was connected
-took me a day or two anyway. Better safe than sorry.
+took me a day or two anyway. Better safe than sorry. During this time I also brushed up on my XML knowledge and learnt quite 
+a bit about XML Schemas, Namespaces and XLST Transformations.
 
 So with these 2 libraries decided the First half of my Phase-1 comes to an end. 
 Now that I've got the libraries to work with, Time to get some work done on the coala side. Maybe I'll add some code snippets the next

@@ -9,7 +9,7 @@ Before I plan to **Improve Diff Handling** I had to first find the libraries and
 I already had a fair idea what I wanted my diffs to look like. Next step was to find the right libraries to get the job done.
 The following week began my hunt to find the right library to use to generate **Binary and XML Diffs**. 
 
-I had to weigh a variety of factors alongside each other and see the code and diff outputI would be most comfortable with to come to a decision.
+I had to weigh a variety of factors alongside each other and see the code and diff output I would be most comfortable with to come to a decision.
 
 I narrowed the libraries down and ultimately decided upon the winners. They were easy to use and had all the right functionality 
 I needed from them. 

@@ -7,7 +7,7 @@ bigimg: /img/path.jpg
 
 Before I plan to **Improve Diff Handling** I had to first find the libraries and fix them so that I could use them in coala.
 I already had a fair idea what I wanted my diffs to look like. Next step was to find the right libraries to get the job done.
-The following weel began my hunt to find the right library to use to generate **Binary and XML Diffs**. 
+The following week began my hunt to find the right library to use to generate **Binary and XML Diffs**. 
 I narrowed the libraries down and ultimately decided upon the winners. They were easy to use and had all the right functionality 
 I needed from them. 
 

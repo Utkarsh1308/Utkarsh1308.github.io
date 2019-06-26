@@ -45,7 +45,7 @@ I added a **bytes** argument which allowed this. The output looks like below -
 Now when you are only changing 2 bytes it doesn't make sense to print a hexdump for the whole diff of the two binary files. 
 So I added a **diff** argument for printing only the address where the bytes were changed.I have a branch ready for a PR, which will soon make the dream real. 
 
-By adding the diff argument you get a much smaller output with the requirement info where the bytes have changed. I also showed the
+By adding the diff argument you get a much smaller output with the required info where the bytes have changed. I also showed the
 deleted bytes when the diff argument is used which was not shown in the library originally.
 
 **multidiff bin_file1 bin_file2**

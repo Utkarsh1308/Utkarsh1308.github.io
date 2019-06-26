@@ -5,7 +5,7 @@ subtitle: The real work begins.
 bigimg: /img/path.jpg
 ---
 
-With the start of the second half of Phase-1 I shifted my focus to the coala codebase. Before adding support for **Binary and XML Diffs**
+With the start of the second half of Phase-1, I shifted my focus to the coala codebase. Before adding support for **Binary and XML Diffs**
 I was tasked with improving the existing codebase. This included adding context for diffs and adding support for handling files with 
 non UTF-8 charset.
 

@@ -96,5 +96,7 @@ During this time I also brushed up on my XML knowledge and learnt quite a bit ab
 
 ## Preparing for the Journey Ahead
 
+## xmldiff - The ultimate python library for xml diffs
+
 After deciding these libraries the first half of my Phase-1 comes to an end. 
 Now that I've got the libraries to work with, Time to get some work done on the coala side.

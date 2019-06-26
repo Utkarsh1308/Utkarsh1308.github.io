@@ -89,7 +89,7 @@ I researched around while looking for a proper framewrok for XML Diffs and lucki
 
 I looked into the code and searched around for some issues the library might have which can be fixed but couldn't find any(Assuming typos don't count ;))
 
-The xmldiff library already had a lot of features. The library didn't mention unused namespaces as that is considered useless behavior 
+The xmldiff library already had a lot of features. The library didn't mention unused namespaces as that is considered useless behavior. 
 I thought I would add an issue and send a patch to mention this but decided against it in the end.
 
 During this time I also brushed up on my XML knowledge and learnt quite a bit about XML Schemas, Namespaces and XLST Transformations.

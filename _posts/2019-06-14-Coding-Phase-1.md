@@ -94,7 +94,7 @@ I thought I would add an issue and send a patch to mention this but decided agai
 
 During this time I also brushed up on my XML knowledge and learnt quite a bit about XML Schemas, Namespaces and XLST Transformations.
 
-
 ## Preparing for the Journey Ahead
+
 After deciding these libraries the first half of my Phase-1 comes to an end. 
 Now that I've got the libraries to work with, Time to get some work done on the coala side.

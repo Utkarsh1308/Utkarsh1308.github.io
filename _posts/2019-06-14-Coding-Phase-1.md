@@ -5,9 +5,9 @@ subtitle: Here comes the cool stuff you have been waiting for
 bigimg: /img/path.jpg
 ---
 
-Before I plan to **Improve Diff Handling** I had to first find the libraries and add some features them so that I could use them in coala.
+Before I plan to **Improve Diff Handling** I had to first find the libraries and add some features to them so that I could use them in coala.
 I already had an idea what I wanted my diffs to look like. Next step was to find the right libraries to get the job done.
-The following week began my hunt to find the right library to use to generate **Binary and XML Diffs**. 
+The following week began my hunt to find the right libraries to use to generate **Binary and XML Diffs**. 
 
 I had to weigh a variety of factors alongside each other and see the code and diff output I would be most comfortable with to come to a decision.
 
@@ -16,7 +16,7 @@ I needed from them.
 
 ## multidiff - A binary diffing library
 
-I added some new features to this library to get my desired behaviour. This library was easy to install and use. I became familiar with the working of the library and brainstormed some new features I would like to be added to make the library better.
+This library was easy to install and use. I became familiar with the working of the library and brainstormed some new features I would like to be added to make the library better.
 
 When you ran this library on some big files the output looked almost unreadable. 
 
@@ -29,13 +29,13 @@ The user had an option to set the width to **max** which would allow to print th
 The output can further be enhanced by allowing the user to print how many bytes he wanted per line.
 I added a **bytes** argument which allowed this. The output looks like below - 
 
-bytes = 10
+**bytes = 10**
 ~~~
 000000: 30 31 32 33 34 35 36 37 38 39 |0123456789|
 00000a: 61 62 63 64 65 66<span class='delete'> </span>  |abcdef|
 ~~~
 
-bytes = 6
+**bytes = 6**
 ~~~
 000000: 30 31 32 33 34 35 |012345|
 000006: 36 37 38 39 61 62 |6789ab|
@@ -48,7 +48,7 @@ So I added a **diff** argument for printing only the address where the bytes wer
 By adding the diff argument you get a much smaller output with the requirement info where the bytes have changed. I also showed the
 deleted bytes when the diff argument is used which was not shown in the library originally.
 
-multidiff bin_file1 bin_file2
+**multidiff bin_file1 bin_file2**
 ~~~
 000000:<span class='delete'> </span>02 00 02 00 00 00 03 00 03 00 00 00 04 00 04 00 
 000010: 00 00 05 00 05 00 00 00 06 00 06 00 00 00 07 00 
@@ -71,7 +71,7 @@ multidiff bin_file1 bin_file2
 000120: 32 00 32 00 00 00 <span class='insert'>33 00 33 00 00 00</span>
 ~~~
 
-multidiff bin_file1 bin_file2 --diff
+**multidiff bin_file1 bin_file2 --diff**
 ~~~
 000000:<span class='delete'>01 00 01 00 00 00</span> 02 00 02 00 00 00 03 00 03 00 00 00 04 00 04 00
 000120: 32 00 32 00 00 00 <span class='insert'>33 00 33 00 00 00</span>

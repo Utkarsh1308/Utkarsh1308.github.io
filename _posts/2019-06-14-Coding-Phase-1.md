@@ -82,11 +82,19 @@ It was good news that the miantainer for that library was active ;-]
 ## xmldiff - The ultimate python library for xml diffs
 
 The guys who made this did not fool around. Some serious work was put into this library. The diff algorithm was based on a 
-[published paper](http://ilpubs.stanford.edu:8090/115/1/1995-46.pdf) which I haven't read fully till now. There was nothing
-to improve here. They had everything I was looking for. But understanding the code and how everything was connected
-took me a day or two anyway. Better safe than sorry. During this time I also brushed up on my XML knowledge and learnt quite 
-a bit about XML Schemas, Namespaces and XLST Transformations.
+[published paper](http://ilpubs.stanford.edu:8090/115/1/1995-46.pdf) which I haven't read fully till now. 
 
-So with these 2 libraries decided the First half of my Phase-1 comes to an end. 
-Now that I've got the libraries to work with, Time to get some work done on the coala side. Maybe I'll add some code snippets the next
-time ;)
+I thought of some changes to improve here. This library already had most of the things which I was looking for.
+I researched around while looking for a proper framewrok for XML Diffs and luckily I found a useful [document](https://tools.ietf.org/html/rfc5261). I focused my work on getting xml diffs using the same approach as was given in the doc.
+
+I looked into the code and searched around for some issues the library might have which can be fixed but couldn't find any(Assuming typos don't count ;))
+
+The xmldiff library already had a lot of features. The library didn't mention unused namespaces as that is considered useless behavior 
+I thought I would add an issue and send a patch to mention this but decided against it in the end.
+
+During this time I also brushed up on my XML knowledge and learnt quite a bit about XML Schemas, Namespaces and XLST Transformations.
+
+
+
+After deciding these libraries the first half of my Phase-1 comes to an end. 
+Now that I've got the libraries to work with, Time to get some work done on the coala side.

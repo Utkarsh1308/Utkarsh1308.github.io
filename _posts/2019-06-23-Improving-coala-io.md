@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Coding Phase-1 Starts!!
-subtitle: Here comes the cool stuff you have been waiting for
+title: Improving coala io!!
+subtitle: The real work begins.
 bigimg: /img/path.jpg
 ---
 

@@ -16,7 +16,8 @@ I needed from them.
 
 ## multidiff - A binary diffing library
 
-I added some new features to this library to get my desired behaviour. This library was easy to install and use. 
+I added some new features to this library to get my desired behaviour. This library was easy to install and use. I became familiar with the working of the library and brainstormed some new features I would like to be added to make the library better.
+
 When you ran this library on some big files the output looked almost unreadable. 
 
 I began with adding a patch to set up travis for the github repo. Then I added some additional arguments to make the output

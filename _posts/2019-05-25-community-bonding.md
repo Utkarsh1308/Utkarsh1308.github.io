@@ -5,7 +5,7 @@ bigimg: /img/path.jpg
 ---
 
 Where do I even start!? So the excitement of getting selected wasn't enough as it is! First of all I got my selection news in the middle 
-of my exams, so I had to contain my excitement while trying to somehow focus on finishing them . My exams ended on 13th and I had a chat with my mentor the next day. We discussed the current project and decided it was better for me if I changed my project to incorporate support for **XML Diffs** along with the existing unified diff handling system in place. This project was more suited for my field of study in college. Also the original project was hard, and we wanted to ensure I had something I would be able to complete in my internship period.
+of my exams, so I had to contain my excitement while trying to somehow focus on finishing them . My exams ended on 13th and I had a chat with my mentor the next day. We discussed the current project and decided to incorporate support for **XML Diffs** along with the existing unified diff handling system in place. This project was more suited for my field of study in college. Also the original project was hard, and we wanted to ensure I had something I would be able to complete in my internship period.
 
 So I had 12 days to come up with a whole new project plan for the new project we decided. This involved coming up with designs and milestones for Phase 1 to Phase 3. I researched around and learnt a lot of new things along the way. Before I got this project I thought binary diffs weren't even possble but now I had to come up with a way to incorporate them in coala. These days were full of learning and 
 hard work for me and I enjoyed the challenge. 

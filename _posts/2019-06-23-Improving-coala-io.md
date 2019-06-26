@@ -130,7 +130,7 @@ def get_context(console_printer, file_dict,
 
 ## Phase-1 Ends
 
-Wait, this month already ended? The world cup is already halfway through :|
+Wait, this month already ended? The world cup is already halfway through O___O
 
 There is still more work to be done in the coming phases. I'll go write my evaluation now.
 

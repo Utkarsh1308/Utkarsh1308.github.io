@@ -14,7 +14,7 @@ non UTF-8 charset.
 coala has a File class for giving different views on a file such as the modifcation timestamp, the file in raw format, The file in the 
 form of a string UTF-8 decoded from the raw format. 
 
-During processing, coala calls **get_file_dict** method which calls the **File.string** method.
+During processing, coala calls **get_file_dict** method which calls the **string** method from the **File** class.
 This is to purposely raise a **UnicodeDecodeError** when coala tries to open files with an encoding different than UTF-8. The string
 method tries to decode the raw contents of the file with encoding set to UTF-8.
 

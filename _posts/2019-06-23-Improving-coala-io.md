@@ -60,8 +60,9 @@ And coala tries to open it. The file opens fine on linux but gives a **UnicodeDe
 This is because of a difference in the default encoding in which files are saved in the 2 platforms.
 In linux files are encoded in utf-8 by default and on windows they are encoded in cp1252 encoding.
 
-Along with this I also wrote some tests for coala_utils. Specifically for UTF-16/32 and latin-1 encodings. I also suggested some 
-changes to **prepare_file** method in **ContextManagers** in **coala-utils**
+Along with this I wrote some tests for coala_utils. Specifically for UTF-16/32 and latin-1 encodings. I suggested some 
+changes to **prepare_file** method in **ContextManagers** in **coala-utils** to prepare files with the above 3 encodings along
+with utf-8.
 
 ## Context For Diffs
 

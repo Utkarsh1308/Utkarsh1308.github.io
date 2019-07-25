@@ -124,6 +124,7 @@ main.c
 
 ## End of Phase-2
 
-Now that we have a clear approach on how to implement Binary Difss in coala code we can shift our focus on XML Diffs.
-With my college starting in a week I plan to complete most of my work in the coming weeks but we never know what the future will await.
+Now that we have a clear approach on how to implement Binary Diffs in coala code we can shift our focus on XML Diffs.
+With my college starting in a week I plan to complete most of my work in the coming couple weeks but we never know what the future will await.
+
 Hoping for the best!!

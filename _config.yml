@@ -23,6 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
+  About Him: "abouthim"
   About Me: "aboutme"
   GSOC Report: "GSOCReport"
 

@@ -286,8 +286,6 @@ activity:
    - details: >
       CheckStyleBear: Fix offset convention
 
----
-
 ### Meta-review
 
 

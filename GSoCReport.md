@@ -1,5 +1,5 @@
 ---
-layout: report
+layout: page
 student: Boxuan Li 
 organisation: coala
 organisation_link : https://coala.io

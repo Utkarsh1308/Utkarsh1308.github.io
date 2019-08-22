@@ -1,35 +1,32 @@
 ---
 layout: report
-student: Boxuan Li 
+student: Utkarsh Sharma
 organisation: coala
 organisation_link : https://coala.io
-project: Meta-review
+project: Improve Diff Handling
 project_link: https://summerofcode.withgoogle.com/projects/#5188493739819008
 tarball: https://github.com/li-boxuan/GSoCReport/raw/master/li-boxuan_coala.tar.gz
 mentors: >
- [Hemang Kumar](https://github.com/hemangsk/) & [Surya Widi](https://github.com/blazeu) & [Andrew Dassonville](https://github.com/andrewda)
+ [John Vandenberg](https://github.com/jayvdb)
 phase:
- - Bonding : https://gitlab.com/coala/GSoC/GSoC-2018/milestones/14
- - Phase 1 : https://gitlab.com/coala/GSoC/GSoC-2018/milestones/15
- - Phase 2 : https://gitlab.com/coala/GSoC/GSoC-2018/milestones/16
- - Phase 3 : https://gitlab.com/coala/GSoC/GSoC-2018/milestones/17
+ - Bonding : https://gitlab.com/coala/GSoC/gsoc-2019/-/milestones/26
+ - Phase 1 : https://gitlab.com/coala/GSoC/gsoc-2019/-/milestones/29
+ - Phase 2 : https://gitlab.com/coala/GSoC/gsoc-2019/-/milestones/30
+ - Phase 3 : https://gitlab.com/coala/GSoC/gsoc-2019/-/milestones/31
 bio: >
  I'm a final year student (expected graduation date: May 2019) of Computer Science at The University of Hong Kong. I participated in GSoC and worked with [coala](http://coala.io) to implement a meta-review system, which collects and tracks GitHub reactions used by coala community to generate meaningful analysis. I also improved usability of [gh-board](http://github.com/coala/gh-board), a serverless kanban board, fixing some issues and extending it to track reviews & meta-reviews.
 social:
  - GitHub:
-   - username: li-boxuan
-   - link: https://github.com/li-boxuan
+   - username: Utkarsh1308
+   - link: https://github.com/Utkarsh1308
  - GitLab:
-   - username: li-boxuan
-   - link: https://gitlab.com/li-boxuan
+   - username: Utkarsh1308
+   - link: https://gitlab.com/Utkarsh1308
  - Gitter:
-   - username: li-boxuan
-   - link: https://gitter.im/li-boxuan
- - LinkedIn:
-   - username: Li Boxuan 
-   - link: https://www.linkedin.com/in/li-boxuan-427510104
-email: liboxuanhk@gmail.com
-blog: http://li-boxuan.github.io/
+   - username: Utkarsh1308
+   - link: https://gitter.im/Utkarsh1308
+email: f20160600@goa.bits-pilani.ac.in@gmail.com
+blog: https://utkarsh1308.github.io/
 activity:
  - 0:
    - repo: community
@@ -314,7 +311,7 @@ activity:
 
 ---
 
-### Meta-review
+### Improve Diff Handling
 
 
 #### Work Done

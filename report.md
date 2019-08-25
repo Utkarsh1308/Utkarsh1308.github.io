@@ -16,6 +16,7 @@ phase:
  - Phase 3 : https://gitlab.com/coala/GSoC/gsoc-2019/-/milestones/31
 bio: >
  I'm a fourth year student (expected graduation date: May 2021) at Birla Institute of Technology and Science, Goa. I participated in GSoC and worked with [coala](http://coala.io) on improving Diff Handling, by improving the context for the affected code shown by diffs, and added support for non utf-8 encodings in coala. I also added support for Binary Diffs and XML Diffs.
+
 social:
  - GitHub:
    - username: Utkarsh1308
@@ -36,7 +37,7 @@ activity:
    - repo: cEPs
    - link: https://github.com/coala/cEPs/pull/190
    - details: >
-     cEP-0034: Improve Diff Handling (unmerged)
+     cEP-0034: Improve Diff Handling
  - 1:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/commit/8d2cd0f0f119932236fe2826891f1a2d4df7d5a8
@@ -44,44 +45,49 @@ activity:
       Add .travis.yml
  - 2:
    - repo: multidiff
-   - link: https://github.com/juhakivekas/multidiff/pull/8
+   - link: https://github.com/juhakivekas/multidiff/commit/0019fd70a7bea6bdbe6cb9f3ad8b4e63f4b3d5ed
    - details: >
-      Add width and bytes attribute (unmerged)
+      Add width and bytes attribute
  - 3:
    - repo: multidiff
-   - link: https://github.com/juhakivekas/multidiff/pull/9
+   - link: https://github.com/juhakivekas/multidiff/commit/10ca2ad90ce1e5087c0222015ef68bc06ecca211
    - details: >
-      Add diff attribute (unmerged)
+      Add diff attribute
  - 4:
    - repo: coala-utils
-   - link: https://gitlab.com/coala/coala-utils/merge_requests/99
+   - link: https://gitlab.com/coala/coala-utils/commit/74941151ff97b02db554dfc33c7518cfd5644e5b
    - details: >
       FileUtils.py: Fix detect_encoding
  - 5:
    - repo: coala-utils
-   - link: https://gitlab.com/coala/coala-utils/merge_requests/100
+   - link: https://gitlab.com/coala/coala-utils/commit/9f45ae47fdd37de06f7f39d7a33160169606ade5
    - details: >
-      Add support for non utf-8 encodings (unmerged)
+      Add support for non utf-8 encodings
  - 6:
    - repo: coala
-   - link: https://github.com/coala/coala/pull/6037
+   - link: https://github.com/coala/coala/commit/6cdd9e99444688a2777b5ec0358b52bcea3c58ff
    - details: >
-      ConsoleInteraction.py: Show context for diffs (unmerged)
+      ConsoleInteraction.py: Show context for diffs
  - 7:
    - repo: coala
-   - link: https://github.com/coala/coala/pull/6063
+   - link: https://github.com/coala/coala/commit/5085b41fd973dd29969f16dbdff5f8eef7e4fedd
    - details: >
-      ConsoleInteraction.py: Add parents to syntax tree (unmerged)
+      ConsoleInteraction.py: Add parents to syntax tree
  - 8:
    - repo: coala
-   - link: https://github.com/coala/coala/pull/6064
+   - link: https://github.com/coala/coala/commit/b415eeab1650d21e5eeaac5673ac717637962f72
    - details: >
-      Add support for non utf-8 encodings (unmerged)
+      Add support for non utf-8 encodings
  - 9:
    - repo: coala
-   - link: https://github.com/coala/coala/pull/6067
+   - link: https://github.com/coala/coala/commit/39709cc9cfda3f7c976e2e58b67eb82b30b5c0d1
    - details: >
-      Add support for binary diffs (unmerged)
+      Add support for binary diffs
+ - 10:
+   - repo: coala
+   - link: https://github.com/coala/coala/commit/9a1cb1b6e19bf963ef75b7c95df35a92383da5f0
+   - details: >
+      Add support for xml diffs
 
 ---
 

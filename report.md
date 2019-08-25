@@ -5,7 +5,7 @@ organisation: coala
 organisation_link : https://coala.io
 project: Improve Diff Handling
 project_link: https://summerofcode.withgoogle.com/projects/#6443787042160640
-tarball: https://github.com/Utkarsh1308/Utkarsh1308.github.io/blob/master/Utkarsh1308_coala.tar.gz?raw=true
+tarball: https://github.com/Utkarsh1308/Utkarsh1308.github.io/raw/master/Utkarsh1308_coala.tar.gz
 mentors: >
  [John Vandenberg](https://github.com/jayvdb)
 phase:
@@ -35,7 +35,7 @@ activity:
    - repo: cEPs
    - link: https://github.com/coala/cEPs/pull/190
    - details: >
-     cEP-0034: Improve Diff Handling
+     cEP-0034: Improve Diff Handling (unmerged)
  - 1:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/commit/8d2cd0f0f119932236fe2826891f1a2d4df7d5a8
@@ -45,42 +45,42 @@ activity:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/pull/8
    - details: >
-      Add width and bytes attribute
+      Add width and bytes attribute (unmerged)
  - 3:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/pull/9
    - details: >
-      Add diff attribute
+      Add diff attribute (unmerged)
  - 4:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/99
    - details: >
-      FileUtils.py: Fix detect_encoding
+      FileUtils.py: Fix detect_encoding (unmerged)
  - 5:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/100
    - details: >
-      Add support for non utf-8 encodings
+      Add support for non utf-8 encodings (unmerged)
  - 6:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6037
    - details: >
-      ConsoleInteraction.py: Show context for diffs
+      ConsoleInteraction.py: Show context for diffs (unmerged)
  - 7:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6063
    - details: >
-      ConsoleInteraction.py: Add parents to syntax tree
+      ConsoleInteraction.py: Add parents to syntax tree (unmerged)
  - 8:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6064
    - details: >
-      Add support for non utf-8 encodings
+      Add support for non utf-8 encodings (unmerged)
  - 9:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6067
    - details: >
-      Add support for binary diffs
+      Add support for binary diffs (unmerged)
 
 ---
 

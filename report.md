@@ -5,7 +5,7 @@ organisation: coala
 organisation_link : https://coala.io
 project: Improve Diff Handling
 project_link: https://summerofcode.withgoogle.com/projects/#6443787042160640
-tarball: https://github.com/Utkarsh1308/Utkarsh1308.github.io/blob/master/Utkarsh1308_coala.tar.gz
+tarball: https://github.com/Utkarsh1308/Utkarsh1308.github.io/blob/master/Utkarsh1308_coala.tar.gz?raw=true
 mentors: >
  [John Vandenberg](https://github.com/jayvdb)
 phase:

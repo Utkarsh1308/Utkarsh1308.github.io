@@ -6,6 +6,7 @@ organisation_link : https://coala.io
 project: Improve Diff Handling
 project_link: https://summerofcode.withgoogle.com/projects/#6443787042160640
 tarball: https://github.com/Utkarsh1308/Utkarsh1308.github.io/raw/master/Utkarsh1308_coala.tar.gz
+sha256sum: b9bd88b4f76c89fed8809c29f1733dd458a3fe5df12a4d024899b5d1e69883fa
 mentors: >
  [John Vandenberg](https://github.com/jayvdb)
 phase:
@@ -55,7 +56,7 @@ activity:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/99
    - details: >
-      FileUtils.py: Fix detect_encoding (unmerged)
+      FileUtils.py: Fix detect_encoding
  - 5:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/100

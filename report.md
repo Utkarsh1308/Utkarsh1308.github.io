@@ -115,11 +115,14 @@ three months.
 
 #### Work to be done
 
-The binary and xml diffs are prototypes and can be improved further.
+The binary and xml diffs have a lot of scope for further improvement.
 
 1. We can show stats for binary diffs. So the diffs will show the additions
 and deletions in the diff and only print the binary diff when ShowAppliedPatches
 is called.
 
 2. XML Diffs need to be tested with bears which change data so they could be
-viewed in all their glory.
+viewed in all their glory. Some new bears for XML can be written which
+can cause changes in xml documents.
+
+3. Writing tests for the new binary and xml diffs.

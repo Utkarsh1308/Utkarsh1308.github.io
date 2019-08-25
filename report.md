@@ -37,7 +37,7 @@ activity:
    - repo: cEPs
    - link: https://github.com/coala/cEPs/pull/190
    - details: >
-     cEP-0034: Improve Diff Handling
+      cEP-0034: Improve Diff Handling
  - 1:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/commit/8d2cd0f0f119932236fe2826891f1a2d4df7d5a8

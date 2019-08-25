@@ -32,45 +32,55 @@ email: usharma1308@gmail.com
 blog: https://utkarsh1308.github.io/
 activity:
  - 0:
+   - repo: cEPs
+   - link: https://github.com/coala/cEPs/pull/190
+   - details: >
+     cEP-0034: Improve Diff Handling
+ - 1:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/commit/8d2cd0f0f119932236fe2826891f1a2d4df7d5a8
    - details: >
       Add .travis.yml
- - 1:
+ - 2:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/pull/8
    - details: >
       Add width and bytes attribute
- - 2:
+ - 3:
    - repo: multidiff
    - link: https://github.com/juhakivekas/multidiff/pull/9
    - details: >
       Add diff attribute
- - 3:
+ - 4:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/99
    - details: >
       FileUtils.py: Fix detect_encoding
- - 4:
+ - 5:
    - repo: coala-utils
    - link: https://gitlab.com/coala/coala-utils/merge_requests/100
    - details: >
       Add support for non utf-8 encodings
- - 5:
+ - 6:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6037
    - details: >
       ConsoleInteraction.py: Show context for diffs
- - 6:
+ - 7:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6063
    - details: >
       ConsoleInteraction.py: Add parents to syntax tree
- - 7:
+ - 8:
    - repo: coala
    - link: https://github.com/coala/coala/pull/6064
    - details: >
       Add support for non utf-8 encodings
+ - 9:
+   - repo: coala
+   - link: https://github.com/coala/coala/pull/6067
+   - details: >
+      Add support for binary diffs
 
 ---
 
@@ -103,3 +113,12 @@ stuck at a problem and was really influential in the work I have done these
 three months.
 
 #### Work to be done
+
+The binary and xml diffs are prototypes and can be improved further.
+
+1. We can show stats for binary diffs. So the diffs will show the additions
+and deletions in the diff and only print the binary diff when ShowAppliedPatches
+is called.
+
+2. XML Diffs need to be tested with bears which change data so they could be
+viewed in all their glory.

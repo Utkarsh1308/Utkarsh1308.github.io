@@ -98,7 +98,7 @@ and after the affected code and showing the parents (class/function).
 3. Add Support for Showing diffs for binary files. Tested with
 ImageCompressionBear.
 
-4. Support for xml diffs.
+4. Support for xml diffs. Tested with XMLBear.
 
 #### Challenges
 
